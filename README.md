@@ -1,2 +1,2 @@
-Python API visualizer using Pygame Module and random function
+Python Sorting Algorithm Visualizer using Pygame and Python
 Please check requirements.text file for more status
